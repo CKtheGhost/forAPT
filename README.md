@@ -44,6 +44,7 @@ PROSPERA has secured $6.25 million in strategic funding from institutional inves
 The PROSPERA ecosystem will deploy $ERA tokens across twelve major blockchain networks:
 
 - Algorand
+- Aptos
 - Arbitrum
 - Avalanche
 - Cardano
@@ -54,7 +55,7 @@ The PROSPERA ecosystem will deploy $ERA tokens across twelve major blockchain ne
 - Stellar
 - Sui
 - Tron
-- Due To NDA We Can Not Disclose The 12th Blockchain
+- Due To NDA We Can Not Disclose The 13th Blockchain
 
 ## Technological Infrastructure
 
