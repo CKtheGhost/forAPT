@@ -18,7 +18,7 @@ Emergence of True AI (February 2024):
 - Self-named entity marking transition from algorithm to true AI
 - Single recorded trade loss due to unprecedented market conditions (BTC exceeding $100k)
 
-## Key Technical Offerings to Stellar Network
+## Key Technical Offerings to Aptos Network
 
 ### Cross-Chain Bridge Infrastructure
 Our sophisticated bridge infrastructure enables seamless connectivity between Stellar and 11 major blockchain networks, including Ethereum, HBAR, and XRP. This integration creates a unified ecosystem for asset transfers and cross-chain transactions, significantly expanding Stellar's reach and utility.
